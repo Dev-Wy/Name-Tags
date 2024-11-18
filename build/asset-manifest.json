@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/react-tutorial/static/css/main.10ab3306.css",
-    "main.js": "/react-tutorial/static/js/main.0627ab3d.js",
-    "static/media/crinkled.jpg": "/react-tutorial/static/media/crinkled.b915d50dac965ce4dec5.jpg",
-    "index.html": "/react-tutorial/index.html",
-    "main.10ab3306.css.map": "/react-tutorial/static/css/main.10ab3306.css.map",
-    "main.0627ab3d.js.map": "/react-tutorial/static/js/main.0627ab3d.js.map"
+    "main.css": "/Name-Tags/static/css/main.75962e6c.css",
+    "main.js": "/Name-Tags/static/js/main.0627ab3d.js",
+    "static/media/crinkled.jpg": "/Name-Tags/static/media/crinkled.b915d50dac965ce4dec5.jpg",
+    "index.html": "/Name-Tags/index.html",
+    "main.75962e6c.css.map": "/Name-Tags/static/css/main.75962e6c.css.map",
+    "main.0627ab3d.js.map": "/Name-Tags/static/js/main.0627ab3d.js.map"
   },
   "entrypoints": [
-    "static/css/main.10ab3306.css",
+    "static/css/main.75962e6c.css",
     "static/js/main.0627ab3d.js"
   ]
 }
